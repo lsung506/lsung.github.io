@@ -8,7 +8,6 @@ repository          : YoussefRaafatNasry/portfolYOU
 
 ### Navbar Settings ###
 nav_exclude:
-  - docs/pages/tags.html
   - docs/pages/404.html
   - docs/pages/index.md
   - docs/pages/documentation/**
