@@ -1,7 +1,15 @@
 - name: Adobe Photoshop
-  percentage: 95
+  percentage: 70
   color: info
 
 - name: Adobe Illustrator
-  percentage: 90
+  percentage: 70
+  color: success
+  
+- name: Microsoft Excel
+  percentage: 75
+  color: success
+
+- name: PowerPoint
+  percentage: 80
   color: success

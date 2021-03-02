@@ -1,11 +1,23 @@
 - name: HTML5/CSS3
-  percentage: 90
+  percentage: 95
   color: danger
 
-- name: Go
-  percentage: 80
+- name: JavaScripto
+  percentage: 85
   color:
 
-- name: Python
-  percentage: 70
+- name: jQuery
+  percentage: 90
+  color: dark
+
+- name: Bootstrap
+  percentage: 90
+  color: dark
+
+- name: WordPress
+  percentage: 90
+  color: dark
+
+- name: VUE.js
+  percentage: 40
   color: dark

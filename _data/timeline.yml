@@ -1,17 +1,20 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: SMTOWN 리뉴얼(반응형)
+  from: 2019.09.09
+  to: 2020.03.02
+  description: HTML,CSS,CSS3,Jquery,javascript,masonry 활용 / 전반적인 사이트 구축, APP에 활용 되는 WEB VIEW 제작 / SSAMBEAR 채팅 스크롤 기능 제작 / Masonry 플러그인 활용 grid 제작 / Fanbook slide 제작 / 이모티콘 기능 제작 / accordion menu 제작
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: SMTOWN CMS
+  from: 2019.09.09
+  to: 2020.03.02
+  description: HTML,CSS,CSS3,Jquery,javascript,bootstrap 활용 / 전반적인 사이트 구축  
+
+- title: BeyondLive(반응형)
+  from: 2020.04.09
+  to: 2020.04.11
+  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축, APP에 활용 되는 WEB VIEW 제작 / slide 메뉴 제작 / 갤러리 메뉴 제작
+
+- title: SM엔터테인먼트 마케팅앱 CMS 제작
+  from: 2020.12.01
+  to: 2021.01.30
+  description: HTML,CSS,CSS3,Jquery,javascript,bootstrap 활용 / 전반적인 사이트 구축
+
