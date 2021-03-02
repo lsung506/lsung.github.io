@@ -1,3 +1,13 @@
+- title: BeyondLive(반응형)
+  from: 2020.04.09
+  to: 2020.04.11
+  description: HTML,CSS,CSS3,Jquery,javascript 활용 / slide 메뉴 제작 / 갤러리 메뉴 제작
+
+- title: SM엔터테인먼트 마케팅앱 CMS 제작
+  from: 2020.12.01
+  to: 2021.01.30
+  description: HTML,CSS,CSS3,Jquery,javascript,bootstrap 활용 / 전반적인 사이트 구축
+
 - title: SMTOWN 리뉴얼(반응형)
   from: 2019.09.09
   to: 2020.03.02
@@ -6,15 +16,54 @@
 - title: SMTOWN CMS
   from: 2019.09.09
   to: 2020.03.02
-  description: HTML,CSS,CSS3,Jquery,javascript,bootstrap 활용 / 전반적인 사이트 구축  
-
-- title: BeyondLive(반응형)
-  from: 2020.04.09
-  to: 2020.04.11
-  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축, APP에 활용 되는 WEB VIEW 제작 / slide 메뉴 제작 / 갤러리 메뉴 제작
-
-- title: SM엔터테인먼트 마케팅앱 CMS 제작
-  from: 2020.12.01
-  to: 2021.01.30
   description: HTML,CSS,CSS3,Jquery,javascript,bootstrap 활용 / 전반적인 사이트 구축
 
+- title: 이스트소프트 오피셜사이트(모바일) 리뉴얼(반응형)
+  from: 2018.12.01
+  to: 2019.01.01
+  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축
+
+- title: 이스트시큐리티 오피셜사이트 리뉴얼(반응형)
+  from: 2017.12.01
+  to: 2018.01.02
+  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축
+
+- title: 알약 블로그 리뉴얼(반응형)
+  from: 2017.03.01
+  to: 2017.03.31
+  description: HTML,CSS,CSS3,Jquery,javascript,Tistory 활용 / 전반적인 사이트 구축 
+
+- title: 엑스포넨셜 오피셜사이트(반응형)
+  from: 2017.01.02
+  to: 2017.03.31
+  description: HTML,CSS,CSS3,Jquery,javascript,WordPress 활용 / 전반적인 사이트 구축 / 스크롤 TOP 기능 / 텍스트 모션 제작
+
+- title: 마인드메이플 오피셜사이트(반응형)
+  from: 2017.01.02
+  to: 2017.01.30
+  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축 / 스크롤 TOP 기능 / 텍스트 모션 제작
+
+- title: TeamUP 오피셜사이트(반응형)/관리자 페이지/클라우드 페이지/웹피드 페이지
+  from: 2015.12.01
+  to: 2016.06.30
+  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축 / 구글 차트 활용 / 드롭다운 기능 제작 / SVG 활용
+
+- title: 알약 오피셜사이트
+  from: 2015.12.01
+  to: 2016.01.02   
+  description: HTML,CSS,CSS3,Jquery,javascript,Tistory 활용 / 전반적인 사이트 구축    
+
+- title: 10주년 이벤트 페이지
+  from: 2015.08.01
+  to: 2015.08.31 
+  description: HTML,CSS,CSS3,Jquery,javascript,Tistory 활용 / 전반적인 사이트 구축  
+
+- title: 인게임 아이템샵
+  from: 2015.08.01
+  to: 2015.08.14 
+  description: HTML,CSS,CSS3,Jquery,javascript,Tistory 활용 / 인게임에 들어가는 WEB VIEW 제작
+
+- title: 찬란한 유산
+  from: 2015.06.01
+  to: 2015.06.05 
+  description: HTML,CSS,CSS3,Jquery,javascript,Tistory 활용 / 전반적인 사이트 구축    
