@@ -1,20 +1,13 @@
 ---
-name: The Movies Project
+name: CABAL 플래티넘 구매 이벤트
 tools: [C#111, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+image: https://lsung506.github.io/lsung.github.io/img/game1.png
+description: CABAL EVENT PAGE
 ---
 
-# The Movies Project
+# CABAL 플래티넘 구매 이벤트
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
-
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+CABAL 플래티넘 구매 이벤트 페이지
+제작 기간 : 2015.08.20 ~ 2015.08.21
+내 용 : CABAL 플래티넘 구매 이벤트 페이지, HTML/CSS/JavaScript/Jquery 사용
+제작 기여도 : 100%
