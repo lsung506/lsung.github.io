@@ -11,4 +11,4 @@ description: CABAL EVENT PAGE
 내 용 : CABAL 플래티넘 구매 이벤트 페이지, HTML/CSS/JavaScript/Jquery 사용<br/>
 제작 기여도 : 100%
 
-![preview](https://lsung506.github.io/lsung.github.io/img/game1_1.jpg)
+![preview](https://lsung506.github.io/lsung.github.io/img/game1.jpg)
