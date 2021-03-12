@@ -1,8 +1,8 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
+name: CABAL 10주년 사전예약 페이지
+tools: [HTML, CSS, JavaScript, Jquery]
 image: https://lsung506.github.io/lsung.github.io/img/game2.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: CABAL EVENT PAGE
 ---
 
 # CABAL 10주년 사전예약 페이지
