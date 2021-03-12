@@ -33,6 +33,11 @@
   to: 2017.03.31
   description: HTML,CSS,CSS3,Jquery,javascript,Tistory 활용 / 전반적인 사이트 구축 
 
+- title: TeamUP 오피셜사이트(반응형)/관리자 페이지/클라우드 페이지/웹피드 페이지
+  from: 2017.03.01
+  to: 2017.06.30
+  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축 / 구글 차트 활용 / 드롭다운 기능 제작 / SVG 활용
+
 - title: 엑스포넨셜 오피셜사이트(반응형)
   from: 2017.02.01
   to: 2017.02.28
@@ -42,11 +47,6 @@
   from: 2017.01.02
   to: 2017.01.30
   description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축 / 스크롤 TOP 기능 / 텍스트 모션 제작
-
-- title: TeamUP 오피셜사이트(반응형)/관리자 페이지/클라우드 페이지/웹피드 페이지
-  from: 2015.12.01
-  to: 2016.06.30
-  description: HTML,CSS,CSS3,Jquery,javascript 활용 / 전반적인 사이트 구축 / 구글 차트 활용 / 드롭다운 기능 제작 / SVG 활용
 
 - title: 알약 오피셜사이트
   from: 2015.12.01
