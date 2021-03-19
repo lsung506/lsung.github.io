@@ -1,14 +1,14 @@
 ---
-name: Exponentialinvest
-tools: [HTML, CSS, JavaScript, Jquery, wordpress.js]
+name: SMTOWN
+tools: [HTML, CSS, JavaScript, Jquery]
 image: https://lsung506.github.io/lsung.github.io/img/exponentialinvest.png
-description: Exponentialinvest
+description: SMTOWN
 ---
 
-# Exponentialinvest
+# SMTOWN
 
 제작 기간 : 2017.02.01 ~ 2017.02.28<br/>
-내 용 : Exponentialinvest, HTML/CSS/JavaScript/Jquery/wordpress 사용<br/>
+내 용 : SMTOWN, HTML/CSS/JavaScript/Jquery/wordpress 사용<br/>
 제작 기여도 : 100%
 
 ![preview](https://lsung506.github.io/lsung.github.io/img/exponentialinvest.jpg)
