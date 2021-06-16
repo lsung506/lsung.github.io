@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Lsung
-description         : 안녕하세요. 웹퍼블리셔 임성민 입니다.
+description         : Web Publisher Lim Sungmin Portfolio
 baseurl             : "/lsung.github.io"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
