@@ -1,9 +1,8 @@
 ---
-title: How to undo your git failure?
-tags: [External Post, Git]
+title: Tab Menu
+tags: [menu, nav, jquery]
 style: fill
-color: warning
-description: Using `git reflog` and `git reset` to save your code.
+description: jqeury 활용 Tab Menu
 ---
 
-<script async src="//jsfiddle.net/lsung506/e0kma6pr/6/embed/"></script>
+<script async src="//jsfiddle.net/lsung506/e0kma6pr/6/embed/js,html,css,result/dark/"></script>
