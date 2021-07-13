@@ -1,0 +1,133 @@
+html,body,div,p,span,a,strong,h1,h2,h3,h4,ul,li,dl,dt,dd,form,input,textarea,select,section,article,header,footer,main{word-break:keep-all;box-sizing:border-box;margin:0;padding:0;letter-spacing:-0.5px}
+body{overflow-x:hidden;font-family:helvetica,"Malgun Gothic","맑은 고딕","Apple SD Gothic Neo",sans-serif;font-size:14px;color:#222;height:100%}
+input,select,textarea{font-family:helvetica,"Malgun Gothic","맑은 고딕","Apple SD Gothic Neo",sans-serif}
+ul{list-style:none}
+a{text-decoration:none;color:#222}
+input,select,textarea{font-size:14px;-webkit-appearance:none;-moz-appearance:none;appearance:none}
+textarea{resize:none}
+select::-ms-expand{display:none}
+input:focus,textarea,select{outline:none;}
+input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#b3b4b8 !important} /* for IE */
+input::-ms-input-placeholder,textarea::-ms-input-placeholder{color:#b3b4b8} /* for Edge */
+input::placeholder,textarea::placeholder{color:#b3b4b8} /* for chrome */
+input[type="checkbox"]{position:absolute;overflow:hidden;clip:rect(0,0,0,0);width:1px;height:1px;border:0;padding:0}
+input[type="checkbox"] + label:before{content:"";display:inline-block;width:16px;height:16px;background:url("../images/ico_checkbox.png") 0 0 no-repeat;cursor:pointer;vertical-align:top;margin:0 8px 0 0}
+input[type="checkbox"]:checked + label:before{background-position:-32px 0}
+
+.blind,h3{font-size:0;display:none}
+body.action{overflow:hidden}
+label.action{color:#0547e3!important}
+
+header{position:relative;height:64px;line-height:64px;background:#fff;border-bottom:1px solid #e0e1e6;margin:0 auto;padding:0 24px}
+header:after{display:block;content:"";clear:both}
+header h1.logo{float:left;margin-top:20px}
+header h1.logo a{display:block;width:145px;height:25px;background:url("../images/mobile/img_logo.png") no-repeat;font-size:0;}
+header nav{position:absolute;right:24px;top:26px}
+header nav .menu{display:block;width:15px;height:12px;background:url("../images/mobile/ico_menu.png") no-repeat;font-size:0}
+header nav .close{position:fixed;z-index:9999;display:none;width:12px;height:12px;font-size:0;background:url("../images/mobile/ico_close.png") no-repeat;right:24px;top:26px}
+header nav .menuBox{display:none;bottom:-100%;background:#fff;position:fixed;left:0;width:100%;overflow:auto;z-index:999;height:100%}
+header nav ul.menuL > li{padding-left:24px;line-height:1.5;margin:30px 0 20px}
+header nav ul.menuL > li a{font-size:16px}
+header nav ul.menuL a{color:#000;font-weight:bold}
+header nav ul.menuL ul{margin-top:5px}
+header nav ul.menuL ul li{line-height:1.5}
+header nav ul.menuL ul li a{color:#888;font-weight:normal;font-size:14px}
+header nav ul.menuR{padding:0 0 20px 24px}
+header nav ul.menuR li{line-height:1.5}
+header nav ul.menuR li a{font-weight:bold;line-height:1.5}
+header nav ul.menuR li:nth-child(1) a{color:#6ba9ff;background:url("../images/ico_clock.png") no-repeat;background-position:0px 2px;padding-left:17px}
+header nav ul.menuR li:nth-child(2) a{color:#0c53f9;background:url("../images/ico_download.png") no-repeat;background-position:0px 2px;padding-left:17px}
+
+main .content1 article{background:url("../images/mobile/bg_top.png") no-repeat 50% 0;background-size:cover;color:#fff;text-align:center}
+main .content1 article .topText{position:relative;opacity:0;padding:81px 0 74px;bottom:-100px}
+main .content1 article .topText h2{font-size:36px;margin-bottom:12px}
+main .content1 article .topText p{font-size:12px}
+main .content1 strong{font-size:16px}
+main .content1 label{cursor:pointer;line-height:16px;color:#262626}
+main .content1 label span{color:#333;text-decoration:underline}
+main .content1 input[type="text"]{width:100%;height:56px;color:#888;border-radius:4px;border:1px solid #e1e2e7;padding:0 10px}
+main .content1 input:focus{border:1px solid #e1e2e7;color:#000;font-weight:bold}
+main .content1 .formBox{position:relative;background:#fff;padding:81px 24px 79px;bottom:-100px}
+main .content1 .formBox ul:after{display:block;content:"";clear:both}
+main .content1 .formBox section:nth-child(1){border-bottom:2px solid #f0f0f2}
+main .content1 .formBox section:nth-child(1):after{display:block;content:"";clear:both}
+main .content1 .formBox section:nth-child(1) div{width:100%;margin-bottom:33px}
+main .content1 .formBox section:nth-child(1) ul{margin-top:14px}
+main .content1 .formBox section:nth-child(1) ul li{float:left}
+main .content1 .formBox section:nth-child(1) div:nth-child(2) ul li{width:50%}
+main .content1 .formBox section:nth-child(1) div:nth-child(3) ul li{float:none;margin-bottom:16px}
+main .content1 .formBox section:nth-child(1) div:nth-child(3) ul li:last-child{margin-bottom:0}
+main .content1 .formBox section:nth-child(1) div:nth-child(3) ul li:after{display:block;content:"";clear:both}
+main .content1 .formBox section:nth-child(1) div:nth-child(3) ul li span{display:block;float:left;width:50%}
+
+main .content1 .formBox section:nth-child(2){padding-top:31px}
+main .content1 .formBox section:nth-child(2) ul li{width:100%;margin:0 0 15px 0}
+main .content1 .formBox section:nth-child(2) ul li:nth-child(4n){margin-right:0}
+main .content1 .formBox section:nth-child(2) ul li:last-child{width:100%;margin:0 0 30px 0}
+main .content1 .formBox section:nth-child(2) ul li textarea{width:100%;height:120px;border:1px solid #e1e2e7;border-radius:4px;padding:20px 16px}
+main .content1 .formBox section:nth-child(2) ul li textarea:focus{font-weight:bold}
+main .content1 .formBox section:nth-child(2) .submitBox label{display:block;margin-bottom:17px}
+main .content1 .formBox section:nth-child(2) .submitBox label.agree{font-weight:bold;color:#aeafb1}
+main .content1 .formBox section:nth-child(2) .submitBox input[type="submit"]{display:block;width:100%;height:56px;background:#4890f6;font-size:16px;font-weight:bold;color:#fff;border:none;border-radius:4px}
+
+main .content1 .formBox section:nth-child(2) .select{position:relative;z-index:55;width:100%;height:56px;color:#888;background:#f7f8fa}
+main .content1 .formBox section:nth-child(2) .select a{display:block;line-height:56px;padding:0 10px}
+main .content1 .formBox section:nth-child(2) .select a:hover{text-decoration:none}
+main .content1 .formBox section:nth-child(2) .select .s_default{position:relative;height:100%;border:1px solid #e1e2e7}
+main .content1 .formBox section:nth-child(2) .select .s_default:after{position:absolute;content:"";width:9px;height:6px;background:url("../images/ico_down.png") no-repeat;right:15px;top:50%;}
+main .content1 .formBox section:nth-child(2) .select .s_default, .select li a{overflow:hidden;text-overflow:ellipsis;word-break:break-all;white-space:nowrap}
+main .content1 .formBox section:nth-child(2) .select ul{display:none;position:absolute;z-index:55;width:100%;border:1px solid #ccc;background:#fff;overflow-y:auto;margin-top:-1px}
+main .content1 .formBox section:nth-child(2) .select.show ul{display:block}
+main .content1 .formBox section:nth-child(2) .select li{float:none;width:100%;margin:0}
+main .content1 .formBox section:nth-child(2) .select li a{line-height:40px}
+main .content1 .formBox section:nth-child(2) .select li a:hover{background:#f7f8fa}
+main .content1 .formBox section:nth-child(2) .select li:last-child{margin-bottom:0}
+
+main .content2 div:nth-child(1){position:relative;width:100%;background:#f7f8fa;padding:0 24px}
+main .content2 div:nth-child(1) div{padding:0 0 32px 0}
+main .content2 h4{position:relative;color:#000;font-size:32px;text-align:center;opacity:0;padding:81px 0 22px;bottom:-100px}
+main .content2 p.globalText{position:relative;color:#888;text-align:center;line-height:1.5;opacity:0;bottom:-100px}
+main .content2 ul{margin:60px auto 0}
+main .content2 ul li{position:relative;opacity:0;bottom:-100px}
+main .content2 dl:after{display:block;content:"";clear:both}
+main .content2 dt,main .content2 dd{float:left}
+main .content2 dt{clear:both;width:60px;height:40px;background:url("../images/ico_flags.png") no-repeat;font-size:0;margin-bottom:48px;margin-right:33px}
+main .content2 dt.czech{background-position:0 -150px}
+main .content2 dt.indonesia1{background-position:0 -300px}
+main .content2 dt.italy{background-position:0 -50px}
+main .content2 dt.spain{background-position:0 -200px}
+main .content2 dt.indonesia2{background-position:0 -360px}
+main .content2 dt.poland{background-position:0 -100px}
+main .content2 dt.taiwan{background-position:0 -250px}
+main .content2 dt.turkey{background-position:0 -400px}
+main .content2 dd b{display:block;color:#000;margin:2px 0 6px}
+main .content2 dd p{font-size:12px;text-align:left;color:#bcbcbc}
+main .content2 div:nth-child(2){background:url("../images/mobile/bg_banner.jpg") no-repeat 50% 0;background-size:cover;text-align:center;color:#fff;padding:0 24px 123px}
+main .content2 div:nth-child(2) strong{position:relative;display:block;font-size:32px;opacity:0;padding:106px 0 18px;left:-100px}
+main .content2 div:nth-child(2) a{position:relative;height:36px;line-height:36px;color:#fff;opacity:0;padding-right:44px;left:-100px}
+main .content2 div:nth-child(2) a:before{position:absolute;content:"";width:36px;height:36px;background:url("../images/ico_arrow.png") no-repeat;right:0}
+
+footer{background:#17181a;color:#fff}
+footer section.footerTop{height:64px;line-height:64px}
+footer section.footerTop .qmenu:after{display:block;content:"";clear:both}
+footer section.footerTop .qmenu a{float:left;color:#999;font-weight:bold;background:#292929;border-right:1px solid #17181a;font-size:13px;text-align:center} 
+footer section.footerTop .qmenu a.language{position:relative;width:calc(100% - 192px);text-align:left;padding-left:38px;border-right:0}
+footer section.footerTop .qmenu a.language:after{position:absolute;content:"";width:13px;height:13px;background:url("../images/ico_globe.png") no-repeat;background-size:13px;left:18px;top:25px}
+footer section.footerTop .qmenu a.youtube{width:64px;height:100%;font-size:0;background:url("../images/mobile/ico_youtube.png") no-repeat;background-color:#292929;background-position:50%}
+footer section.footerTop .qmenu a.linkedin{width:64px;height:100%;font-size:0;background:url("../images/mobile/ico_linkedin.png") no-repeat;background-color:#292929;background-position:50%}
+footer section.footerTop .qmenu a.topBtn{width:64px;border-right:0}
+footer div.footerwrap{margin-top:26px;padding-bottom:10px}
+footer div.footerwrap:after{display:block;content:"";clear:both}
+footer div.footerwrap section:nth-child(1){padding:0 24px}
+footer div.footerwrap section:nth-child(1) div.newsletters input[type="text"]{display:inline-block;width:calc(100% - 80px);height:56px;color:#fff;border:1px solid #333333;background:#17181a;padding:0 16px}
+footer div.footerwrap section:nth-child(1) div.newsletters a{display:inline-block;line-height:56px;height:56px;width:80px;background:#4890f6;color:#fff;text-align:center;font-weight:bold}
+footer div.footerwrap section:nth-child(1) b a{display:block;font-size:15px;color:#fff;font-weight:normal;text-align:center;margin:120px 0 12px}
+footer div.footerwrap section:nth-child(1) ul:after{display:block;content:"";clear:both}
+footer div.footerwrap section:nth-child(1) ul li{position:relative;display:inline-block}
+footer div.footerwrap section:nth-child(1) ul.subNav{width:320px;text-align:center;margin:0 auto}
+footer div.footerwrap section:nth-child(1) ul.subNav li{padding-right:34px;margin-bottom:11px}
+footer div.footerwrap section:nth-child(1) ul.subNav li:before{position:absolute;content:"";width:1px;height:8px;background:#707070;right:16px;top:4px}
+footer div.footerwrap section:nth-child(1) ul.subNav li:nth-child(3n){padding-right:0}
+footer div.footerwrap section:nth-child(1) ul.subNav li:nth-child(3n):before{display:none}
+footer div.footerwrap section:nth-child(1) ul.subNav li a{font-size:13px;color:#707070}
+

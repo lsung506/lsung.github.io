@@ -4,7 +4,7 @@
 
 - name: Adobe Illustrator
   percentage: 70
-  color: #FF9B00
+  color: info
   
 - name: Microsoft Excel
   percentage: 75
