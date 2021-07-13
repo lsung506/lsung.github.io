@@ -8,7 +8,7 @@ description: CABAL EVENT PAGE
 # CABAL 10주년 이벤트 페이지
 
 제작 기간 : 2015.08.01 ~ 2015.08.31<br/>
-내 용 : CABAL 10주년 이벤트 페이지, HTML/CSS/JavaScript/Jquery 사용<br/>
+내 용 : CABAL 10주년 이벤트 페이지, HTML/CSS/JavaScript/Jquery <br/>
 제작 기여도 : 33%
 
 # CABAL 10주년 이벤트 페이지

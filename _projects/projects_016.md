@@ -8,7 +8,7 @@ description: BeyondLive
 # BeyondLive
 
 제작 기간 : 2020.04.09 ~ 2020.04.11<br/>
-내 용 : BeyondLive, HTML/CSS/JavaScript/Jquery 사용<br/>
+내 용 : BeyondLive, HTML/CSS/JavaScript/Jquery <br/>
 제작 기여도 : 100%
 
 ![preview](https://lsung506.github.io/lsung.github.io/img/beyondlive.jpg)
