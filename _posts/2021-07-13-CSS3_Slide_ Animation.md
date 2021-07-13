@@ -6,6 +6,8 @@ color:
 description: CSS3 Slide Animation
 ---
 
+<h2>CSS3로 Slide Animation 만들기</h2>
+
 <p>
     1. display:flex로 li를 가로로 나열함<br/>
     2. ul width = slide width * li count<br/>
@@ -23,5 +25,9 @@ description: CSS3 Slide Animation
 
 <b>세로형식 Slide</b>
 
-<iframe height="400" width="100%"  title="" src="https://codepen.io/qrtukjrg-the-flexboxer/embed/rNmjVaK?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="400" width="100%" style="margin-bottom:30px" src="https://codepen.io/qrtukjrg-the-flexboxer/embed/rNmjVaK?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+</iframe>
+
+<b>Fade형식 Slide</b>
+<iframe height="400" width="100%" style="margin-bottom:30px" src="https://codepen.io/qrtukjrg-the-flexboxer/embed/BaRpoBY?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
 </iframe>
