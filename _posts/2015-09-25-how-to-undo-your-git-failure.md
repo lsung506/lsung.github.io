@@ -1,7 +1,8 @@
 ---
 title: Tab Menu
 tags: [menu, nav, jquery]
-style: fill
+style: 
+color: 
 description: jqeury 활용 Tab Menu
 ---
 
