@@ -35,12 +35,12 @@ description: CSS3 Slide Animation
 
 <h2>수동형식 Slide</h2>
 <p>
-    1. display:flex로 li를 가로로 나열함
-    2. ul width = slide width * li count
-    3. li width = slide width = ul width / li count * 100%
-    4. :checked 선택자로 input[type="radio"]의 선택 상태를 판별할 수 있다.
-    5. ~ 선택자를 이용하여 뒤에 있는 태그를 선택하고 조작할 수 있다.
-    6. label을 클릭하면, for과 일치하는 id 값을 가진 input에 focusing 된다.
+    1. display:flex로 li를 가로로 나열함<br/>
+    2. ul width = slide width * li count<br/>
+    3. li width = slide width = ul width / li count * 100%<br/>
+    4. :checked 선택자로 input[type="radio"]의 선택 상태를 판별할 수 있다.<br/>
+    5. ~ 선택자를 이용하여 뒤에 있는 태그를 선택하고 조작할 수 있다.<br/>
+    6. label을 클릭하면, for과 일치하는 id 값을 가진 input에 focusing 된다.<br/>
     7. input은 display:none 상태에서도 작동한다.
 </p>
 
