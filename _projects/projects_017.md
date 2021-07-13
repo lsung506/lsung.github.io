@@ -1,7 +1,7 @@
 ---
 name: midas 과제
 tools: [HTML, CSS, JavaScript, Jquery]
-image: https://lsung506.github.io/lsung.github.io/img/exponentialinvest.png
+image: https://lsung506.github.io/lsung.github.io/img/midas.png
 description: SMTOWN
 ---
 
@@ -11,7 +11,7 @@ description: SMTOWN
 내 용 : HTML/CSS/JavaScript/Jquery/wordpress 사용<br/>
 제작 기여도 : 100%
 
-![preview](https://lsung506.github.io/lsung.github.io/img/exponentialinvest.jpg)
+![preview](https://lsung506.github.io/lsung.github.io/img/midas.png)
 
 
 <p class="text-center">
